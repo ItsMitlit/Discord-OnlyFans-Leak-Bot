@@ -3,6 +3,11 @@
 ## Information
 This [NodeJS](https://nodejs.org) bot utilises the free [KemonoAPI](https://coomer.su/documentation/api) to obtain content from their website.
 
+## Installation
+1. Add your discord bot token and client id to the .env file
+2. Enable all the [Privileged Gateway Intents](https://discord.com/developers/applications) (just in case)
+3. Run the code.
+
 ## Legal
 - This bot was created for **research and educational** purposes only.
 - I **do not** own, operate, or have any involvement with the sourcing or development of the used API and its content. The API's creator can be contacted through this email — [contact@kemono.party](mailto:contact@kemono.party).
