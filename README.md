@@ -1,4 +1,4 @@
-# PorkyBot
+# Discord OnlyFans Leak Bot (PorkyBot)
 
 ## Information
 This [NodeJS](https://nodejs.org) bot utilises the free [KemonoAPI](https://coomer.su/documentation/api) to obtain content from their website.
@@ -9,7 +9,7 @@ This [NodeJS](https://nodejs.org) bot utilises the free [KemonoAPI](https://coom
 - The use of this bot is restricted to users **over the age of 18** or their country's required age to view adult pornographic content.
 
 ## License
-[PorkyBot](https://github.com/ItsMitlit/PorkyBot) © 2024 by [Mitlit](https://github.com/ItsMitlit) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[PorkyBot](https://github.com/ItsMitlit/Discord-OnlyFans-Leak-Bot) © 2024 by [Mitlit](https://github.com/ItsMitlit) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **You are free to:**
 - **Share** — copy and redistribute the material in any medium or format
