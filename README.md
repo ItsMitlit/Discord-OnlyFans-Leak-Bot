@@ -1,8 +1,11 @@
 # PorkyBot
 
+## Information
+This [NodeJS](https://nodejs.org) bot utilises the free [KemonoAPI](https://coomer.su/documentation/api) to obtain content from their website.
+
 ## Legal
 - This bot was created for **research and educational** purposes only.
-- I **do not** own, operate, or have any involvement with the sourcing or development of the used API and its content.
+- I **do not** own, operate, or have any involvement with the sourcing or development of the used API and its content. The API's creator can be contacted through this email — [contact@kemono.party](mailto:contact@kemono.party).
 - The use of this bot is restricted to users **over the age of 18** or their country's required age to view adult pornographic content.
 
 ## License
